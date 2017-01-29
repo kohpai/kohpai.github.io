@@ -4,7 +4,7 @@ title:  "What actually is intelligence!?"
 date:   2017-01-29 04:20:40 +0700
 categories: philosophy
 ---
-### Have you ever wondered, what exactly distinguishes inteligent people from regular people?
+### Have you ever wondered, what exactly distinguishes intelligent people from regular people?
 
 ...
 
