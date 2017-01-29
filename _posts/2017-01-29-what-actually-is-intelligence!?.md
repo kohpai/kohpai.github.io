@@ -9,7 +9,7 @@ categories: philosophy
 ...
 
 When I was young, I had an hypothesis about this. It was simply like this:
-"An intelligent one is capable of infering things faster than regular people,
+"An intelligent one is capable of inferring things faster than regular people,
 given same data or information". This statement was quite true for me, until now.
 
 One day, during a class of Artificial Intelligence at my college,
@@ -23,19 +23,19 @@ what agents are in [this link](https://en.wikipedia.org/wiki/Intelligent_agent))
 agents which can learn things by themselves. For example, you have learned that what a
 desk looks like, then one day, someone gives you a chair, now you can tell that it's
 not a desk. This is very similar to a simple learning agent. Now, what are knowledge-based agent?
-Knowlege-based agents are agents which have a very specific way of learning.
-Usualy, at first, they have a knowledge base with themselves. A knowledge base
+Knowledge-based agents are agents which have a very specific way of learning.
+Usually, at first, they have a knowledge base with themselves. A knowledge base
 is like a collection of facts which we called sentences. Now using these sentences, the
 agents can infer a new fact or facts as a conclusion and then keep them back to
 the knowledge base. For example, I know that (1) Jane is a daughter of Mr. and Ms. Smith, and (2)
-John is a son of Mr. and Ms. Smith, then from these two senteces I can tell you that
+John is a son of Mr. and Ms. Smith, then from these two sentences I can tell you that
 Jane and John are siblings. And now my knowledge base has a new sentence like this: (3)
 Jane and John are siblings. That's it about our introduction!
 
 So, how are these things important? I remember the days when I was just a newbie in computer
 programming. I used to struggle with a very simple programming problem and saw my friends solved
 it like it was some kind of toys. One day, my friend had taught me about how he usually solve
-a programming problem, then I had a tought like "How could he possibly came up with
+a programming problem, then I had a thought like "How could he possibly came up with
 this kind of methods? This is so brilliant. I surely cannot figure this out by my own". Now
 get back to the day of the AI class. In that day, while the professor is saying something
 about knowledge base, I realized two things: one is that the method my friend taught me
