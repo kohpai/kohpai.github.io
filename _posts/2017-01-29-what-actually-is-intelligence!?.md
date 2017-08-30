@@ -42,13 +42,12 @@ about knowledge base, I realized two things: one is that the method my friend ta
 didn't seem brilliant any more, it was just okay. Another one is that maybe, just maybe,
 he was not as intelligent as I thought he was. Maybe he had just learn this method from
 others and he had used it until it became normal to him, like it is to me in these days.
-Maybe it has something to do with this so-called **"knowledge base"**.
+Maybe it has something to do with this so-called *knowledge base*.
 
 This gave me an idea that maybe, how intelligent a person is depends on not only
 capability of inference, but also on how relevant and big his/her knowledge base is.
 For example, everyone calls Einstein a genius. But maybe he was just a man who had some
-sentences in his knowledge base we don't have (this is not quite true, as it was proved
-that Einstein had very high IQ). I mean, if you know about [relative
+sentences in his knowledge base we don't have. I mean, if you know about [relative
 velocity](https://en.wikipedia.org/wiki/Relative_velocity) in physics, and it is
 the only thing you know in physics, how could you come up with something like
 "The speed of light is a constant, no matter how fast you are moving"
