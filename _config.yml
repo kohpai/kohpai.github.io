@@ -31,3 +31,6 @@ exclude:
   - Gemfile.lock
 
     #theme: jekyll-theme-cayman
+disqus:
+    shortname: "kohpai"
+
