@@ -14,12 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Kohpai The Plant
-email: srikote@kmi.tl
+email: srikote.b@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Some interesting ideas I want to share with you.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kohpai.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  kohpai
+github_username: kohpai
 
 # Build settings
 markdown: kramdown
@@ -29,8 +29,6 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
-
     #theme: jekyll-theme-cayman
 disqus:
-    shortname: "kohpai"
-
+  shortname: "kohpai"
