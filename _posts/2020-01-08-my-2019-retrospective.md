@@ -86,3 +86,6 @@ and experienced might deserve their own post. I'll try to make that happen. :)
 - Use the notebook more to keep track of short-term plans
 - Use Google Photos and Google Calendar more to organize your life
 - Stay fit for at least three months
+
+There you have it, my 2019 retrospective! If everything is going well with the
+try, see you in the next post by the end of February.
