@@ -31,5 +31,5 @@ exclude:
   - Gemfile.lock
   - vendor
     #theme: jekyll-theme-cayman
-disqus:
-  shortname: "kohpai"
+# disqus:
+#   shortname: "kohpai"
