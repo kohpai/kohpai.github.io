@@ -15,6 +15,6 @@ I am interested in:
 * Mathematics and Languages
 
 Contact info:
-* [srikote.b@gmail.com](mailto:srikote.b@gmail.com)
+* [6zdag0t6j@mozmail.com](mailto:6zdag0t6j@mozmail.com)
 * [LinkedIn](https://www.linkedin.com/in/srikote-naewchampa-50109b9b/)
 * [GitHub](https://github.com/kohpai/)
