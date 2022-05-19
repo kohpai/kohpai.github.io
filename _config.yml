@@ -30,6 +30,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+  - .idea
     #theme: jekyll-theme-cayman
 # disqus:
 #   shortname: "kohpai"
