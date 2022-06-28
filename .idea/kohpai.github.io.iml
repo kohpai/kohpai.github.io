@@ -2168,6 +2168,5 @@
         </SOURCES>
       </library>
     </orderEntry>
-    <orderEntry type="library" scope="PROVIDED" name="bundler (v2.3.10, ruby-3.0.4-p208) [gem]" level="application" />
   </component>
 </module>
