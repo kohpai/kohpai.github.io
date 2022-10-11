@@ -18,7 +18,7 @@ of posts instead, this being just the preface of it all.
 {: style="text-align: justify" }
 
 It's worth noting that my first intention was to write all of this in Thai since it is my mother tongue, and I would
-like my Thai fellows to read and understand it more than anyone else;
+like my Thai fellows to read and understand it more than anyone;
 but after one full post published online, I find that it is extremely difficult to make this subject understandable in
 Thai &mdash; it ended up with so many foreign words that it obscure the narration, and I can't really stand that.
 So, that published post became a draft, and now I'm writing it again in English instead.
@@ -73,7 +73,7 @@ That being said, I will try to explain elementary concepts as best and short as 
 
 - Preface: A View on Quantum Computing
 - Chapter 1: Bits and Qubits
-- Chapter 2: Behind the Scene of Computations
+- Chapter 2: Behind the Scenes of Computations
 - Chapter 3: Quantum Advantage
 - Chapter 4: Limitations of NISQ Computer
 - Chapter 5: Conclusion and Beyond NISQ
@@ -104,4 +104,4 @@ beyond NISQ era.
 If you somehow end up finding this post, please keep in mind that this is a series which is being written as we speak,
 the content is subject to a lot of changes.
 There may be more or less chapters than what I intended initially.
-I'll update the content as I seem fit.
+I'll update the content as I see fit.
